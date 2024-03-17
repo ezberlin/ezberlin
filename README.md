@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm ezberlin, a work in progress with Python, JavaScript, Java and C#
+
+Have a nice day!
+
 <!--
 **ezberlin/ezberlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
