@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ezberlin, a work in progress with Python, JavaScript, Java and C#
+I'm ezberlin, a work in progress with Kotlin, Python and JavaScript
 
 Have a nice day!
 
