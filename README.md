@@ -1,3 +1,7 @@
+# Important
+
+I migrated my code to [Codeberg](https://codeberg.org/ezberlin), so I will not update my main code and use this account for PRs only.
+
 ### Hi there 👋
 
 I'm ezberlin, a work in progress with Kotlin, Python and JavaScript
